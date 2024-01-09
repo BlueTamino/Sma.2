@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - tiles
+  - Network and Lobby Manager
+  - Lobby Element
+  - Player Element
+  - Vcam
+  - Jump Btn
+  - Snow Particle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Tiles
+  - Water
+  - UI
+  - Player
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - New UI
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Backround
+    uniqueID: 1583657599
+    locked: 0
+  - name: Particles
+    uniqueID: 1469248291
+    locked: 0
+  - name: Tiles
+    uniqueID: 3150136425
+    locked: 0
+  - name: Player
+    uniqueID: 884298557
+    locked: 0
+  - name: UI
+    uniqueID: 2855234581
+    locked: 0

@@ -1,0 +1,33 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI;
+using Unity.Netcode;
+
+public class NetworkManagerUi : MonoBehaviour
+{
+    [SerializeField] private Button serverButton;
+    [SerializeField] private Button hostButton;
+    [SerializeField] private Button clientButton;
+    private void Awake()
+    {
+        serverButton.onClick.AddListener(() =>
+        {
+            NetworkManager.Singleton.StartServer();
+        });
+        hostButton.onClick.AddListener(() =>
+        {
+            NetworkManager.Singleton.StartHost();
+        });
+        clientButton.onClick.AddListener(() =>
+        {
+            NetworkManager.Singleton.StartClient();
+        });
+    }
+    private void Start()
+    {
+        Debug.Log("Test");
+        Debug.LogError("Test1");
+        
+    }
+}

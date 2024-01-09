@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c611b6af-e2fe-d7ff-7eba-56efd9adc129": {
+      "ProjectGuid": "c611b6af-e2fe-d7ff-7eba-56efd9adc129",
+      "DisplayName": "Assembly-CSharp",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "46ba1071-2a7a-d9f2-12a8-3b32c8ad9c3b": {
+      "ProjectGuid": "46ba1071-2a7a-d9f2-12a8-3b32c8ad9c3b",
+      "DisplayName": "Assembly-CSharp-Editor",
+      "ColorIndex": 1
+    },
+    "b9af644b-cc45-c6ec-d702-5a761d0e6ce8": {
+      "ProjectGuid": "b9af644b-cc45-c6ec-d702-5a761d0e6ce8",
+      "DisplayName": "MobileConsole",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

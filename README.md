@@ -1,2 +1,1 @@
-# Sma-2--New-
- 
+This is the Repositery of the Game Sunny Mountain 2
